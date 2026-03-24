@@ -6,9 +6,9 @@ I'm a **Frontend Developer** based in **Bhopal**, with over **3 years of experie
 
 ### 🎓 Education
 
-- **PG Diploma in Software Development** — IIIT Bangalore *(strong foundation in scalable architecture and disciplined SDLC practices)*
+- **PG Diploma in Software Development** — IIIT Bangalore
 - **B.E. in Computer Science**
-- Currently advancing technical depth through **Woolf University** and **Scaler Academy** *(Computer Science & Software Engineering)*
+- Currently enrolled in certificate programs at **Woolf University** and **Scaler Academy** *(Computer Science & Software Engineering)*
 
 ---
 
