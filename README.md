@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+3%2B+Years+Experience;React+%26+React+Native+Specialist;Building+Scalable+SaaS+Solutions;Performance-First+%7C+Design-Driven)](https://git.io/typing-svg)
 
-📍 Bhopal, India &nbsp;|&nbsp; 💼 Open to Frontend Leadership Roles
+📍 Bhopal, India &nbsp;|&nbsp; 💼 Open to Frontend or Full Stack Roles
 
 </div>
 
